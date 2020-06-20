@@ -70,4 +70,4 @@ This is an assembler and an emulator for a Quack3200 computer. This was a school
 
 ## Coding Standard
 
-See *Coding_Standard.pdf* for all of the expected coding standards used in the project.
+See [*Coding_Standard.pdf*](https://github.com/mmiladinov12/Quack3200-Assembler_Emulator/blob/master/Coding_Standards.pdf) for all of the expected coding standards used in the project.
